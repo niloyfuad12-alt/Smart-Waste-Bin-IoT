@@ -1,6 +1,3 @@
-# Smart-Waste-Bin-IoT
-Design and implementation of an Arduino-based smart waste bin with touchless operation, waste-level detection, safety monitoring and ESP32 IoT connectivity.
-
 # Design and Implementation of Smart Waste Bin for Office Spaces
 
 An Arduino-based smart waste management prototype developed as a Final Year Design Project at BRAC University in 2023.
