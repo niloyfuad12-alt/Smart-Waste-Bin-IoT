@@ -43,3 +43,27 @@ The project involved circuit design, embedded programming, sensor integration, p
 BRAC University — Department of Electrical and Electronic Engineering
 
 Final Year Design Project | 2023
+
+## Project Images
+
+### Smart Waste Bin Prototype
+
+![Prototype Figure 53](images/53.png)
+
+![Prototype Figure 54](images/54.png)
+
+![Prototype Figure 55](images/55.png)
+
+### LCD Monitoring Results
+
+![LCD Result 60](images/60.png)
+
+![LCD Result 61](images/61.png)
+
+### IoT Monitoring Results
+
+![IoT Monitoring 66](images/66.png)
+
+![IoT Monitoring 67](images/67.png)
+
+![IoT Monitoring 68](images/68.png)
