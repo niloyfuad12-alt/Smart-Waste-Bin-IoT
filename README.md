@@ -44,6 +44,16 @@ BRAC University — Department of Electrical and Electronic Engineering
 
 Final Year Design Project | 2023
 
+## System Operation
+
+The smart waste bin uses an Arduino Uno as its main controller to process sensor inputs and operate the lid mechanisms.
+
+An ultrasonic sensor detects a person approaching the bin and triggers the touchless main lid mechanism. Additional ultrasonic sensors monitor waste levels in the two compartments.
+
+MQ-4 and MQ-2 sensors monitor gas and smoke conditions. A 20×4 LCD displays local system information, while an ESP32 provides connectivity to the Blynk IoT platform for remote monitoring.
+
+The prototype combines embedded programming, sensor interfacing, actuator control, power distribution and IoT communication in one system.
+
 ## Project Images
 
 ### Smart Waste Bin Prototype
