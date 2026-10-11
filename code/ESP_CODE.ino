@@ -30,9 +30,9 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL66AsRXtJf"
+#define BLYNK_TEMPLATE_ID "TMPL66sRXtJf"
 #define BLYNK_TEMPLATE_NAME "Dustbin"
-#define BLYNK_AUTH_TOKEN "qtT_vErUcYVGfJ7qa8dDZBrxHf1Oqpls"
+#define BLYNK_AUTH_TOKEN "qt_vErUcYVGfJ7qa8dDZBrxHf1Oqpls"
 
 
 #include <WiFi.h>
@@ -42,7 +42,7 @@
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "Niloy";
-char pass[] = "Niloy112233";
+char pass[] = "112233";
 
 void setup()
 {
