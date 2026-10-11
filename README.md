@@ -27,6 +27,15 @@ This project focused on designing and building a touchless smart waste bin for o
 - Proteus
 - Blynk IoT Platform
 
+## Source Code
+
+The project includes two embedded programming files:
+
+- [Arduino Controller Code](code/ARDUINO_CODE.ino) — Arduino-based control program for the Smart Waste Bin.
+- [ESP Code](code/ESP_CODE.ino) — ESP-side program used in the project's IoT implementation.
+
+These programs were developed as part of the team's embedded-system implementation.
+
 ## Project Development
 
 The project involved circuit design, embedded programming, sensor integration, physical prototyping and functional testing. During development, the team revised the lid mechanism and communication system to address practical implementation challenges.
